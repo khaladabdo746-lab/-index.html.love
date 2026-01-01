@@ -725,3 +725,9 @@ body {
     transform: translateY(180px);
   }
 }
+
+audio {
+  display: inline;
+  margin-left: 350px;
+  margin-top: 1500px;
+}
